@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Desktop/Kafka-Tutorial/Kafka-Tutorial/02_document/ak01/.idea/ak01.iml" filepath="$USER_HOME$/Desktop/Kafka-Tutorial/Kafka-Tutorial/02_document/ak01/.idea/ak01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../flask_heroku/.idea/flask_heroku.iml" filepath="$PROJECT_DIR$/../flask_heroku/.idea/flask_heroku.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../my_webapp-02/.idea/my_webapp-02.iml" filepath="$PROJECT_DIR$/../my_webapp-02/.idea/my_webapp-02.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Kafka-Tutorial/Kafka-Tutorial/02_document/ak03/.idea/ak03.iml" filepath="$USER_HOME$/Desktop/Kafka-Tutorial/Kafka-Tutorial/02_document/ak03/.idea/ak03.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/cxcxc_chatbot_s3/.idea/cxcxc_chatbot_s3.iml" filepath="$USER_HOME$/PycharmProjects/cxcxc_chatbot_s3/.idea/cxcxc_chatbot_s3.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/docker_demo_flask/.idea/docker_demo_flask.iml" filepath="$USER_HOME$/PycharmProjects/docker_demo_flask/.idea/docker_demo_flask.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/my_webapp_01.iml" filepath="$PROJECT_DIR$/.idea/my_webapp_01.iml" />
     </modules>
   </component>

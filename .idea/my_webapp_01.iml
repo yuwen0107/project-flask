@@ -7,7 +7,8 @@
     <orderEntry type="jdk" jdkName="Python 3.7 (my_webapp_01)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ak01" />
-    <orderEntry type="module" module-name="flask_heroku" />
-    <orderEntry type="module" module-name="my_webapp-02" />
+    <orderEntry type="module" module-name="ak03" />
+    <orderEntry type="module" module-name="cxcxc_chatbot_s3" />
+    <orderEntry type="module" module-name="docker_demo_flask" />
   </component>
 </module>
